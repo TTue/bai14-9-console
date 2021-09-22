@@ -1,0 +1,7 @@
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\bin\Debug\bai14-9-console.exe.config
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\bin\Debug\bai14-9-console.exe
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\bin\Debug\bai14-9-console.pdb
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\obj\Debug\bai14-9-console.csproj.AssemblyReference.cache
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\obj\Debug\bai14-9-console.csproj.CoreCompileInputs.cache
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\obj\Debug\bai14-9-console.exe
+C:\Users\thotu\source\repos\bai14-9-console\bai14-9-console\obj\Debug\bai14-9-console.pdb
